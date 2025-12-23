@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+
+title: Club Manager
+description: Un sistema para la gestión de clubes deportivos.
+show_downloads: false
