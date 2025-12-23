@@ -2,4 +2,9 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 title: Club Manager
 description: Un sistema para la gestión de clubes deportivos.
-show_downloads: false
+
+# Botones personalizados
+github:
+  backend_url: https://github.com/TomasKoch03/Club_Manager_bakend
+  frontend_url: https://github.com/TomasKoch03/Club_Manager_frontend
+  is_project_page: true
