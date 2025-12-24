@@ -401,11 +401,3 @@ Este proyecto fue desarrollado con fines académicos para FIUBA.
 A la cátedra **Turri** de **Gestión del Desarrollo de Sistemas Informáticos** de FIUBA por su guía durante el desarrollo del proyecto, y a todo el equipo de desarrollo por su dedicación y trabajo colaborativo.
 
 ---
-
-<div align="center">
-
-**Desarrollado con ❤️ usando FastAPI, React y metodologías ágiles**
-
-*Facultad de Ingeniería - Universidad de Buenos Aires*
-
-</div>
